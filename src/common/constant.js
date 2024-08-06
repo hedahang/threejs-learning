@@ -1,1 +1,0 @@
-export const ORIGIN_POINT = [118.00, 36.76] // 淄博傅家镇
